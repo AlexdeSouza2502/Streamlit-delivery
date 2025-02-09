@@ -12,7 +12,7 @@ Este projeto utiliza **Machine Learning** para analisar e priorizar estabelecime
 - **Visualizações Dinâmicas:** Histogramas, gráficos de dispersão e gráficos de barras para análise dos dados.
 
 ## 🛠 Tecnologias Utilizadas
-- **Python 3.x**
+- **Python 3.12**
 - **Streamlit** (Interface interativa)
 - **Pandas** (Manipulação de dados)
 - **Plotly** (Gráficos interativos)
